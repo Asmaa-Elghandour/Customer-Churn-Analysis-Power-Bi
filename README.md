@@ -36,11 +36,16 @@ The report is segmented into **four interactive pages**, each focusing on a key 
 
 ## 🚀 Getting Started
 
+### Overview Page
+![Overview Screenshot](https://github.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/blob/main/Screenshots/Overview.png)
 
-## Dashboard Preview
-https://raw.githubusercontent.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/5bd0c0411c7edd6c8aa24ecfc6fb6c24882a6aeb/Screenshots/Demographics.png?token=BYJHNIIQT2P4RZ7TD6CWGZLI7ADEQ
+### Demographics Page
+![Demographics Screenshot](https://github.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/blob/main/Screenshots/Demographics.png)
 
-https://raw.githubusercontent.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/5bd0c0411c7edd6c8aa24ecfc6fb6c24882a6aeb/Screenshots/Overview.png?token=BYJHNINW6MSGBP5J3TIDVJ3I7ADEQ
+### International Plan Page
+![International Plan Screenshot](https://github.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/blob/main/Screenshots/international%20plan.png)
 
-https://raw.githubusercontent.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/5bd0c0411c7edd6c8aa24ecfc6fb6c24882a6aeb/Screenshots/contract%20%26%20Payment.png?token=BYJHNIPMCIPB4W7Z7VTV5WDI7ADEQ)
+### Contract & Payment Page
+![Contract and Payment Screenshot](https://github.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/blob/main/Screenshots/contract%20%26%20Payment.png)
 
+---
