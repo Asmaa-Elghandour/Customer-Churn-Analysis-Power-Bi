@@ -37,7 +37,7 @@ The report is segmented into **four interactive pages**, each focusing on a key 
 ## 🚀 Getting Started
 
 ### Overview Page
-![Overview Screenshot](https://github.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/blob/main/Screenshots/Overview_new.png)
+![Overview Screenshot](https://github.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/blob/main/Screenshots/overview.png?raw=true)
 
 ### International Plan Page
 ![International Plan Screenshot](https://github.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/blob/main/Screenshots/international%20plan.png)
@@ -46,4 +46,5 @@ The report is segmented into **four interactive pages**, each focusing on a key 
 ![Contract and Payment Screenshot](https://github.com/Asmaa-Elghandour/Customer-Churn-Analysis-Power-Bi/blob/main/Screenshots/contract%20%26%20Payment.png)
 
 ---
+
 
